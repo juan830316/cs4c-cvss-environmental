@@ -1,0 +1,14 @@
+Placeholder — formulas.pdf
+
+This file contains the formal mathematical definitions of all CVSS v3.1
+environmental scoring formulas used in the CS4C study, including:
+
+1. Base Score formula
+2. Temporal Score formula  
+3. Environmental Score formula (with Modified Impact Sub-Score)
+4. EPSS integration formula
+5. Composite Priority formula
+
+The full content will be generated as a LaTeX-compiled PDF.
+Refer to the CVSS v3.1 Specification Document (FIRST.org) for the
+canonical formula definitions used in this study.
