@@ -1,0 +1,7 @@
+CVE,CVSS_Vector_Base,Base_Score,Base_Severity,Temporal_Vector,Temporal_Score,Layer_Applied,Notes
+CVE-2025-29824,CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,7.8,HIGH,TODO,TODO,1,"Baseline without CS4C controls. Per the article: baseline (sin CS4C) the Environmental Score equals the Base Score (7.8)."
+CVE-2023-34362,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,9.8,CRITICAL,TODO,TODO,1,"Baseline without CS4C controls. Per the article: baseline (sin CS4C) the Environmental Score equals the Base Score (9.8)."
+CVE-2024-3094,TODO,10.0,CRITICAL,TODO,TODO,1,"Baseline without CS4C controls. Per the article: baseline (sin CS4C) the Environmental Score equals the Base Score (10.0). Article states AC:H included in base but full vector not explicitly provided."
+CVE-2024-6387,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H,8.1,HIGH,TODO,TODO,1,"Baseline without CS4C controls. Per the article: baseline (sin CS4C) the Environmental Score equals the Base Score (8.1)."
+CVE-2024-21762,TODO,9.8,CRITICAL,TODO,TODO,1,"Baseline without CS4C controls. Per the article: baseline (sin CS4C) the Environmental Score equals the Base Score (9.8)."
+CVE-2021-34527,TODO,8.8,HIGH,TODO,TODO,1,"Baseline without CS4C controls. Per the article: baseline (sin CS4C) the Environmental Score equals the Base Score (8.8)."
