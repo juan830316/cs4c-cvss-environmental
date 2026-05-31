@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+title: "CS4C: Cyber Security Four Layers for CVSS Contextualization"
+authors:
+  - given-names: "Author1"
+    family-names: "Surname1"
+    email: "author1@example.com"
+    affiliation: "Affiliation 1"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: "Author2"
+    family-names: "Surname2"
+    email: "author2@example.com"
+    affiliation: "Affiliation 2"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: "Author3"
+    family-names: "Surname3"
+    email: "author3@example.com"
+    affiliation: "Affiliation 3"
+    orcid: "https://orcid.org/0000-0000-0000-0000
+doi: "10.XXXX/XXXXX"  # Placeholder — to be replaced upon publication
+url: "https://github.com/your-org/CS4C"
+repository-code: "https://github.com/your-org/CS4C"
+license: "MIT"
+type: "software"
+version: "1.0.0"
+date-released: 2026-05-31
+keywords:
+  - "CVSS"
+  - "vulnerability management"
+  - "environmental metrics"
+  - "EPSS"
+  - "cybersecurity"
+  - "contextualization"
